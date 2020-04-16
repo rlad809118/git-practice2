@@ -17,11 +17,8 @@
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
 - git fetch: Fetch changes from remote repository
 - git pull: Fetch, and then merge
-<<<<<<< HEAD
 - git branch -d <branch name>: Deletes a branch that you no longer need. add small change here....
-=======
-- git branch -d <branch name>: Deletes a branch that you no longer need
->>>>>>> merge-demo-redo
+
 
 
 ## What's a branch?
