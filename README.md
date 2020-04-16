@@ -11,7 +11,7 @@
 - git checkout: check out branch (update HEAD and apply changes to working directory)
 - git branch: -c: create a branch
 - git checkout -b: create a branch then check it out
-- git merge: Merge changes from different branches
+- git merge: Merge changes from different branches - more stuff
 - git remote add <remote> <url>: Add a new <remote> at <url>
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
@@ -35,7 +35,7 @@ Merging means to bring the changes from one branch into another.
 
 A remote repo is one hosted somewhere other than our local machine. We can add remotes with `git remote add`, and set up *tracking branches* to track differences between our local and remote repositories.
 
-We push to remotes with `git push`, and fetch from them with `git fetch`. We can also fetch and merge in one set with `git pull`. 
+We push to remotes with `git push`, and fetch from them with `git fetch`. We can also fetch and merge in one set with `git pull`.
 
 ##commit messages
 
