@@ -7,7 +7,7 @@
 - git add: add changes from working directory
 - git commit: commit changes from staging area to current branch
 - git config: set or get configuration
-- git log: show history of project commits
+- git log: show history of project commits. Now adding more words here...
 - git checkout: check out branch (update HEAD and apply changes to working directory)
 - git branch: -c: create a branch
 - git checkout -b: create a branch then check it out
@@ -17,7 +17,11 @@
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
 - git fetch: Fetch changes from remote repository
 - git pull: Fetch, and then merge
+<<<<<<< HEAD
 - git branch -d <branch name>: Deletes a branch that you no longer need. add small change here....
+=======
+- git branch -d <branch name>: Deletes a branch that you no longer need
+>>>>>>> merge-demo-redo
 
 
 ## What's a branch?
