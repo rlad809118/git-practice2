@@ -29,8 +29,8 @@ A branch is a ref(erence) to a commit. When HEAD points to a branch, we say we'r
 Merging means to bring the changes from one branch into another.
 
 Also adding more about merging here...
- 
-- A fast-forward merge happens when the target branch was branched from teh current one, and there are no new changes to the current branch since then.
+
+- A fast-forward merge happens when the target branch was branched from teh current one, and there are no new changes to the current branch since then. and some more as well
 - An Automatic merge happens when the two histories have diverged, but git is able to reconcile them into one set of change. This creates a new commit on the current branch.
 
 ## What's a remote?
