@@ -9,6 +9,16 @@
 - git config: set or get configuration
 - git log: show history of project commits
 - git checkout: check out branch (update HEAD and apply changes to working directory)
+- git branch: -c: create a branch 
+- git checkout -b: create a branch then check it out 
+- git merge: Merge changes from different branches 
+- git remote add <remote> <url>: Add a new <remote> at <url>
+- git remote -v: List remote repositories 
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch> 
+
+
+## What's a branch?
+A branch is a ref(erence) to a commit. When HEAD points to a branch, we say we're on that branch. When we make a commit while we're on a branch, the branch is updated to ref(er) to the new commit. 
 
 ##commit messages
 
